@@ -2,3 +2,5 @@
 Aplikasi prediksi ketahanan makanan di kulkas untuk membantu mengurangi food waste.
 
 anjay trias jelek
+
+ehehehhehe
