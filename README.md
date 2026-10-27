@@ -3,4 +3,4 @@ Aplikasi prediksi ketahanan makanan di kulkas untuk membantu mengurangi food was
 
 katanya trias ganteng
 
-anjay
+anjay trias jelek
